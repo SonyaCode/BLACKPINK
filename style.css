@@ -1,0 +1,45 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0px;
+}
+
+.lightstick {
+  cursor: url("cursor.cur"), auto;
+}
+
+.background {
+  background-color: pink;
+}
+
+.black-box {
+  background-color: black;
+  padding: 15px;
+}
+
+.logo-size {
+  width: 70px;
+  margin-left: 48%;
+}
+
+.smaller-image {
+  width: 500px;
+}
+.mini-image{
+  width: 200px;
+}
+div {
+  border-top: double;
+}
+.text-align {
+  text-align: center;
+}
+.right {
+  float: right;
+}
+.table-center {
+  margin-left: auto;
+  margin-right: auto;
+}
